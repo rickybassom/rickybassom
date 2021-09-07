@@ -22,7 +22,7 @@ LinkedIn: https://www.linkedin.com/in/ricky-bassom/
   <summary>Other projects</summary>
   <h3>Met System GUI</h3>
   <img src="img/metsystemgui.png" alt="Met System GUI screenshot" align="right" width="300">
-  <p>Created data pipelines for real-time meteorological data at the <a href="https://www.ing.iac.es//astronomy/telescopes/wht/">William Herschel Telescope</a>. I also created a new web dashboard for scientists in the control center.</p>
+  <p>Created data pipelines for real-time meteorological data at the <a href="https://www.ing.iac.es/astronomy/telescopes/wht/">William Herschel Telescope</a>. I also created a new web dashboard for scientists in the control center.</p>
   <ul>
     <li>Python</li>
     <li>Dart</li>
