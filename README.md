@@ -2,6 +2,8 @@
 
 I'm a software/data engineer focusing on creating professional data pipeline/processing software, full stack websites and AI based applications. I also have experience freelancing, contracting and in open-source development.
 
+I'm currently creating an open data platform for global meteor data. [Find out more](https://github.com/gmn-data-platform).
+
 Email: rickybassom@gmail.com
 <br>
 LinkedIn: https://www.linkedin.com/in/ricky-bassom/
