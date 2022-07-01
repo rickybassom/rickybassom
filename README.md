@@ -1,27 +1,31 @@
 ### Hi there 👋
 
-I'm a software/data engineer focusing on creating professional data pipeline/processing software, full stack websites and AI based applications. I also have experience freelancing, contracting and in open-source development.
+I'm a Data Engineer focused on data warehousing, cataloguing, streaming and processing software.
 
-I'm currently creating an open data platform for global meteor data. [Find out more](https://github.com/gmn-data-platform).
+I am currently:
+- Creating an open data platform for global meteor data. [Find out more](https://github.com/gmn-data-platform).
+- Creating an online data catalogue for educational material. [Find out more](https://github.com/rickybassom/mars).
 
 Email: rickybassom@gmail.com
 <br>
 LinkedIn: https://www.linkedin.com/in/ricky-bassom/
 
+<br>
+
 <details>
   <summary>Skills</summary>
   <br>
-  <b>Programming languages:</b> Python, Java, C, C++, C#, Vala, JavaScript, Dart, PHP, Haskell, Prolog
+  <b>Programming Languages:</b> Python, Java, C, C++, C#, Go, Vala, JavaScript, Dart, PHP, Haskell, Prolog, Bash
   <br>
-  <b>Frameworks / libraries:</b> Flask, Django, Bootstrap, Jekyll, GTK, Swing, Pygame, Phaser
+  <b>Database Management:</b> Data Normalisation & Warehousing, Data Cataloguing & Governance, ETL, Product Development, Oracle, MySQL, Postgres, SQLite
   <br>
-  <b>Systems:</b> Linux (Debian and Red Hat based), Windows, AWS
+  <b>Systems:</b> AWS (EC2, Lightsail), On-prem Linux (Debian, Red Hat), Windows Server 2019, GitHub Pages static sites
   <br>
-  <b>Other:</b> HTML, CSS, Bash, Git, SQL, Docker, GitHub Actions, Travis CI, Jenkins, Redis, ActiveMQ, D3, Matplotlib
+  <b>Other:</b> Kafka, ActiveMQ, Redis, Airflow, ELK stack, Jenkins, GitHub Actions, Travis CI, Pandas, Flask, Django, Selenium, HTML/CSS, SQL, Avro, Docker, Git, D3, Matplotlib
 </details>
 
 <details>
-  <summary>Other projects</summary>
+  <summary>Other Projects</summary>
   <h3>Met System GUI</h3>
   <img src="img/metsystemgui.png" alt="Met System GUI screenshot" align="right" width="300">
   <p>Created data pipelines for real-time meteorological data at the <a href="https://www.ing.iac.es/astronomy/telescopes/wht/">William Herschel Telescope</a>. I also created a new web dashboard for scientists in the control center.</p>
