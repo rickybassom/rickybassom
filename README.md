@@ -4,7 +4,7 @@ I'm a Data Engineer focused on data warehousing, cataloguing, streaming and proc
 
 I am currently:
 - Creating a data platform for open global meteor data. [Find out more](https://github.com/gmn-data-platform).
-- Creating an online data catalogue for educational material. [Find out more](https://github.com/rickybassom/mars).
+- Creating an online data catalogue for educational material. [Find out more](https://github.com/MARSatExeter/marsatexeter.github.io).
 
 Email: rickybassom@gmail.com
 <br>
