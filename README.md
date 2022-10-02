@@ -5,7 +5,7 @@ I'm a Data Engineer focused on data warehousing, cataloguing, streaming and proc
 I am currently:
 - Developing software for the ISIS Neutron and Muon Source data pipeline that spans from the ingestion of scientific data, to [data reduction](https://github.com/autoreduction/queue-processor) and the [cataloguing of data](https://data.isis.stfc.ac.uk/) using ETL jobs for scientists to later analyse.
 - Creating the first global data platform for open global meteor data. [Find out more](https://github.com/gmn-data-platform).
-- Building an online data catalogue for university educational material. [Find out more](https://github.com/MARSatExeter/marsatexeter.github.io).
+- Building an online data catalogue for university educational material. [Find out more](https://github.com/mars-exeter/mars-exeter.github.io).
 
 Email: rickybassom@gmail.com
 <br>
